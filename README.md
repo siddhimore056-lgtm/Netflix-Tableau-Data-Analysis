@@ -4,7 +4,7 @@ An interactive Tableau Dashboard and Story analyzing Netflix's content library, 
 ## 📌 Project Overview
 An interactive Tableau Data Story analyzing Netflix's global content library to uncover trends in content types, production growth, regional insights, and audience demographics.
 
-📊 *[Live Dashboard Link](YOUR_TABLEAU_PUBLIC_LINK_HERE)* | 📄 **[View PDF Report](https://github.com/siddhimore056-lgtm/Netflix-Tableau-Data-Analysis/blob/main/netflix%20tableau%20project.pdf)**
+📄 **[View PDF Report](https://github.com/siddhimore056-lgtm/Netflix-Tableau-Data-Analysis/blob/main/netflix%20tableau%20project.pdf)**
 
 ---
 
